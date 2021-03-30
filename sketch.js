@@ -123,7 +123,7 @@ function mousePressed() {
         }
 
     } else {
-
+        vy = -6;
     }
 }
 function keyPressed() {
