@@ -133,3 +133,6 @@ function keyPressed() {
         }
     }
 }
+function touchStart(){
+    vy = -6;
+}
